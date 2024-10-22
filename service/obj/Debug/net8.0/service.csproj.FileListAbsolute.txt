@@ -1,0 +1,14 @@
+C:\Users\ntd09\source\repos\KoiFish\service\bin\Debug\net8.0\service.deps.json
+C:\Users\ntd09\source\repos\KoiFish\service\bin\Debug\net8.0\service.runtimeconfig.json
+C:\Users\ntd09\source\repos\KoiFish\service\bin\Debug\net8.0\service.dll
+C:\Users\ntd09\source\repos\KoiFish\service\bin\Debug\net8.0\service.pdb
+C:\Users\ntd09\source\repos\KoiFish\service\obj\Debug\net8.0\service.csproj.AssemblyReference.cache
+C:\Users\ntd09\source\repos\KoiFish\service\obj\Debug\net8.0\service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntd09\source\repos\KoiFish\service\obj\Debug\net8.0\service.AssemblyInfoInputs.cache
+C:\Users\ntd09\source\repos\KoiFish\service\obj\Debug\net8.0\service.AssemblyInfo.cs
+C:\Users\ntd09\source\repos\KoiFish\service\obj\Debug\net8.0\service.csproj.CoreCompileInputs.cache
+C:\Users\ntd09\source\repos\KoiFish\service\obj\Debug\net8.0\service.dll
+C:\Users\ntd09\source\repos\KoiFish\service\obj\Debug\net8.0\refint\service.dll
+C:\Users\ntd09\source\repos\KoiFish\service\obj\Debug\net8.0\service.pdb
+C:\Users\ntd09\source\repos\KoiFish\service\obj\Debug\net8.0\service.genruntimeconfig.cache
+C:\Users\ntd09\source\repos\KoiFish\service\obj\Debug\net8.0\ref\service.dll

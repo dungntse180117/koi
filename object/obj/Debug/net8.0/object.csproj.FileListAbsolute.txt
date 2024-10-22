@@ -1,0 +1,5 @@
+C:\Users\ntd09\source\repos\KoiFish\object\obj\Debug\net8.0\object.csproj.AssemblyReference.cache
+C:\Users\ntd09\source\repos\KoiFish\object\obj\Debug\net8.0\object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntd09\source\repos\KoiFish\object\obj\Debug\net8.0\object.AssemblyInfoInputs.cache
+C:\Users\ntd09\source\repos\KoiFish\object\obj\Debug\net8.0\object.AssemblyInfo.cs
+C:\Users\ntd09\source\repos\KoiFish\object\obj\Debug\net8.0\object.csproj.CoreCompileInputs.cache

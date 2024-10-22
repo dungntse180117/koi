@@ -1,0 +1,14 @@
+C:\Users\ntd09\source\repos\KoiFish\dao\bin\Debug\net8.0\dao.deps.json
+C:\Users\ntd09\source\repos\KoiFish\dao\bin\Debug\net8.0\dao.runtimeconfig.json
+C:\Users\ntd09\source\repos\KoiFish\dao\bin\Debug\net8.0\dao.dll
+C:\Users\ntd09\source\repos\KoiFish\dao\bin\Debug\net8.0\dao.pdb
+C:\Users\ntd09\source\repos\KoiFish\dao\obj\Debug\net8.0\dao.csproj.AssemblyReference.cache
+C:\Users\ntd09\source\repos\KoiFish\dao\obj\Debug\net8.0\dao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntd09\source\repos\KoiFish\dao\obj\Debug\net8.0\dao.AssemblyInfoInputs.cache
+C:\Users\ntd09\source\repos\KoiFish\dao\obj\Debug\net8.0\dao.AssemblyInfo.cs
+C:\Users\ntd09\source\repos\KoiFish\dao\obj\Debug\net8.0\dao.csproj.CoreCompileInputs.cache
+C:\Users\ntd09\source\repos\KoiFish\dao\obj\Debug\net8.0\dao.dll
+C:\Users\ntd09\source\repos\KoiFish\dao\obj\Debug\net8.0\refint\dao.dll
+C:\Users\ntd09\source\repos\KoiFish\dao\obj\Debug\net8.0\dao.pdb
+C:\Users\ntd09\source\repos\KoiFish\dao\obj\Debug\net8.0\dao.genruntimeconfig.cache
+C:\Users\ntd09\source\repos\KoiFish\dao\obj\Debug\net8.0\ref\dao.dll
