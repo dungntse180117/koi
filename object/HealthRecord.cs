@@ -17,5 +17,7 @@ public partial class HealthRecord
 
     public string? Notes { get; set; }
 
- 
+    public virtual FishInformation Fish { get; set; }
+
+
 }
