@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47237C19-4996-4E97-89E3-9CB2F0314D56}|KoiFish\\KoiFish.csproj|c:\\users\\ntd09\\documents\\github\\koi\\koifish\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47237C19-4996-4E97-89E3-9CB2F0314D56}|KoiFish\\KoiFish.csproj|solutionrelative:koifish\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47237C19-4996-4E97-89E3-9CB2F0314D56}|KoiFish\\KoiFish.csproj|c:\\users\\ntd09\\documents\\github\\koi\\koifish\\koifish.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47237C19-4996-4E97-89E3-9CB2F0314D56}|KoiFish\\KoiFish.csproj|solutionrelative:koifish\\koifish.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDFF48D-ABE6-4859-9FD1-2105C098A026}|service\\service.csproj|c:\\users\\ntd09\\documents\\github\\koi\\service\\healthrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDFF48D-ABE6-4859-9FD1-2105C098A026}|service\\service.csproj|solutionrelative:service\\healthrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDFF48D-ABE6-4859-9FD1-2105C098A026}|service\\service.csproj|c:\\users\\ntd09\\documents\\github\\koi\\service\\ihealthrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDFF48D-ABE6-4859-9FD1-2105C098A026}|service\\service.csproj|solutionrelative:service\\ihealthrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDFF48D-ABE6-4859-9FD1-2105C098A026}|service\\service.csproj|c:\\users\\ntd09\\documents\\github\\koi\\service\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDFF48D-ABE6-4859-9FD1-2105C098A026}|service\\service.csproj|solutionrelative:service\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDFF48D-ABE6-4859-9FD1-2105C098A026}|service\\service.csproj|C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\iuseraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDFF48D-ABE6-4859-9FD1-2105C098A026}|service\\service.csproj|solutionrelative:service\\iuseraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF413948-E076-4D54-90DA-E370556F156C}|object\\Bussinessobject.csproj|C:\\Users\\ntd09\\Documents\\GitHub\\koi\\object\\healthrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF413948-E076-4D54-90DA-E370556F156C}|object\\Bussinessobject.csproj|solutionrelative:object\\healthrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\KoiFish\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "KoiFish\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\KoiFish\\MainWindow.xaml",
+              "RelativeToolTip": "KoiFish\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T02:48:14.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KoiFish",
+              "DocumentMoniker": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\KoiFish\\KoiFish.csproj",
+              "RelativeDocumentMoniker": "KoiFish\\KoiFish.csproj",
+              "ToolTip": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\KoiFish\\KoiFish.csproj",
+              "RelativeToolTip": "KoiFish\\KoiFish.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T02:48:08.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IHealthRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\IHealthRecordService.cs",
+              "RelativeDocumentMoniker": "service\\IHealthRecordService.cs",
+              "ToolTip": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\IHealthRecordService.cs",
+              "RelativeToolTip": "service\\IHealthRecordService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:41:39.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HealthRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\HealthRecordService.cs",
+              "RelativeDocumentMoniker": "service\\HealthRecordService.cs",
+              "ToolTip": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\HealthRecordService.cs",
+              "RelativeToolTip": "service\\HealthRecordService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:41:19.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\UserAccountService.cs",
+              "RelativeDocumentMoniker": "service\\UserAccountService.cs",
+              "ToolTip": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\UserAccountService.cs",
+              "RelativeToolTip": "service\\UserAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:50:40.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\IUserAccountService.cs",
+              "RelativeDocumentMoniker": "service\\IUserAccountService.cs",
+              "ToolTip": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\IUserAccountService.cs",
+              "RelativeToolTip": "service\\IUserAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:50:39.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HealthRecord.cs",
+              "DocumentMoniker": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\object\\HealthRecord.cs",
+              "RelativeDocumentMoniker": "object\\HealthRecord.cs",
+              "ToolTip": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\object\\HealthRecord.cs",
+              "RelativeToolTip": "object\\HealthRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:50:00.125Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sS0MmPNigU/BR/w967EK4E2YegWcwsEm87o3VBzWQEHlDsV3DQHqQswfaxR3aVBiMi1x5wPGcKOdS9DdQiHgdQ==",
+  "dgSpecHash": "QbmzP5poCysB96CKMqwA2V6Hpp+1yrrYwPlB6yRtEwdpmx2BqbTCqS5/RYghReCLr6a/Z2hmmIm4Uq7GDvTcOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ntd09\\source\\repos\\KoiFish\\KoiFish\\KoiFish.csproj",
+  "projectFilePath": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\KoiFish\\KoiFish.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ntd09\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ntd09\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

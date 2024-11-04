@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ntd09\\source\\repos\\KoiFish\\object\\Bussinessobject.csproj": {}
+    "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\object\\Bussinessobject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ntd09\\source\\repos\\KoiFish\\object\\Bussinessobject.csproj": {
+    "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\object\\Bussinessobject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ntd09\\source\\repos\\KoiFish\\object\\Bussinessobject.csproj",
+        "projectUniqueName": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\object\\Bussinessobject.csproj",
         "projectName": "Bussinessobject",
-        "projectPath": "C:\\Users\\ntd09\\source\\repos\\KoiFish\\object\\Bussinessobject.csproj",
+        "projectPath": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\object\\Bussinessobject.csproj",
         "packagesPath": "C:\\Users\\ntd09\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ntd09\\source\\repos\\KoiFish\\object\\obj\\",
+        "outputPath": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\object\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ntd09\\AppData\\Roaming\\NuGet\\NuGet.Config",

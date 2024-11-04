@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K0o9J2KibLPi0PfHyiv7fHhkQa4EAbWLN8NJun2glOMF/A8mec/UXz6njRpfiPgjNdMNihd/WZS83uMDni7Xhw==",
+  "dgSpecHash": "Mozc3KsvYl81ucQKMHxvrij/z+xbQf3QkMavdIXmC5q/GjWPcKCpzAmmRSiucx7yUCljkJHcCfOGMXW6+dyMCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ntd09\\source\\repos\\KoiFish\\dao\\dao.csproj",
+  "projectFilePath": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\dao\\dao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ntd09\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ntd09\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

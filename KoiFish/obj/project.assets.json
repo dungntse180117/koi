@@ -4560,11 +4560,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ntd09\\source\\repos\\KoiFish\\KoiFish\\KoiFish.csproj",
+      "projectUniqueName": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\KoiFish\\KoiFish.csproj",
       "projectName": "KoiFish",
-      "projectPath": "C:\\Users\\ntd09\\source\\repos\\KoiFish\\KoiFish\\KoiFish.csproj",
+      "projectPath": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\KoiFish\\KoiFish.csproj",
       "packagesPath": "C:\\Users\\ntd09\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ntd09\\source\\repos\\KoiFish\\KoiFish\\obj\\",
+      "outputPath": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\KoiFish\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ntd09\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4581,8 +4581,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\ntd09\\source\\repos\\KoiFish\\service\\service.csproj": {
-              "projectPath": "C:\\Users\\ntd09\\source\\repos\\KoiFish\\service\\service.csproj"
+            "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\service.csproj": {
+              "projectPath": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\service.csproj"
             }
           }
         }

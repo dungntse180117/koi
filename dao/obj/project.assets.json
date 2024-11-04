@@ -4367,11 +4367,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ntd09\\source\\repos\\KoiFish\\dao\\dao.csproj",
+      "projectUniqueName": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\dao\\dao.csproj",
       "projectName": "dao",
-      "projectPath": "C:\\Users\\ntd09\\source\\repos\\KoiFish\\dao\\dao.csproj",
+      "projectPath": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\dao\\dao.csproj",
       "packagesPath": "C:\\Users\\ntd09\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ntd09\\source\\repos\\KoiFish\\dao\\obj\\",
+      "outputPath": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\dao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ntd09\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4388,8 +4388,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ntd09\\source\\repos\\KoiFish\\object\\Bussinessobject.csproj": {
-              "projectPath": "C:\\Users\\ntd09\\source\\repos\\KoiFish\\object\\Bussinessobject.csproj"
+            "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\object\\Bussinessobject.csproj": {
+              "projectPath": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\object\\Bussinessobject.csproj"
             }
           }
         }
