@@ -16,9 +16,9 @@ namespace service
         {
             Service = new UserAccountRepo();
         }
-        public UserAccount GetUserAccountByEmail(string email)
+        public UserAccount? GetUserAccountByEmail(string email, string password)
         {
-            return Service.GetUserAccountByEmail(email);
+            return Service.GetUserAccountByEmail(email, password);
         }
 
         public List<UserAccount> GetUserAccounts()
@@ -26,4 +26,5 @@ namespace service
             return Service.GetUserAccounts();
         }
     }
+
 }

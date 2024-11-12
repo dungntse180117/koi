@@ -10,8 +10,7 @@ namespace service
 {
     public interface IUserAccountService
     {
-        public UserAccount GetUserAccountByEmail(String email);
-
-        public List<UserAccount> GetUserAccounts();
+        UserAccount? GetUserAccountByEmail(string email, string password); // Định nghĩa mới
+        List<UserAccount> GetUserAccounts();
     }
 }

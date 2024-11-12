@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\object\\Bussinessobject.csproj": {}
+    "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\object\\Bussinessobject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\object\\Bussinessobject.csproj": {
+    "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\object\\Bussinessobject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\object\\Bussinessobject.csproj",
+        "projectUniqueName": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\object\\Bussinessobject.csproj",
         "projectName": "Bussinessobject",
-        "projectPath": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\object\\Bussinessobject.csproj",
-        "packagesPath": "C:\\Users\\ntd09\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\object\\obj\\",
+        "projectPath": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\object\\Bussinessobject.csproj",
+        "packagesPath": "C:\\Users\\Phoen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\object\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ntd09\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Phoen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -82,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

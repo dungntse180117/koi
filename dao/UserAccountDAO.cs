@@ -11,7 +11,7 @@ namespace dao
     public class UserAccountDAO
     {
         private KoifishDbContext context;
-        private static UserAccountDAO instance;
+        private static UserAccountDAO instance = new UserAccountDAO();
 
         public UserAccountDAO()
         {
@@ -31,9 +31,12 @@ namespace dao
             }
         }
 
-        public UserAccount GetUserAccountByEmail(String email)
+        public UserAccount? GetUserAccountByEmail(string email, string password)
         {
-            return context.UserAccounts.SingleOrDefault(m => m.Email.Equals(email));
+            string normalizedEmail = email.ToLower();
+
+            return context.UserAccounts
+                .SingleOrDefault(m => m.Email.ToLower() == normalizedEmail && m.Password == password);
         }
 
         public List<UserAccount> GetUserAccounts()

@@ -1,33 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\",
+  "WorkspaceRootPath": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47237C19-4996-4E97-89E3-9CB2F0314D56}|KoiFish\\KoiFish.csproj|c:\\users\\ntd09\\documents\\github\\koi\\koifish\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{47237C19-4996-4E97-89E3-9CB2F0314D56}|KoiFish\\KoiFish.csproj|c:\\users\\phoen\\documents\\github\\koi\\koifish\\fishinfowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47237C19-4996-4E97-89E3-9CB2F0314D56}|KoiFish\\KoiFish.csproj|solutionrelative:koifish\\fishinfowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47237C19-4996-4E97-89E3-9CB2F0314D56}|KoiFish\\KoiFish.csproj|c:\\users\\phoen\\documents\\github\\koi\\koifish\\fishinfowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47237C19-4996-4E97-89E3-9CB2F0314D56}|KoiFish\\KoiFish.csproj|solutionrelative:koifish\\fishinfowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47237C19-4996-4E97-89E3-9CB2F0314D56}|KoiFish\\KoiFish.csproj|c:\\users\\phoen\\documents\\github\\koi\\koifish\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{47237C19-4996-4E97-89E3-9CB2F0314D56}|KoiFish\\KoiFish.csproj|solutionrelative:koifish\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47237C19-4996-4E97-89E3-9CB2F0314D56}|KoiFish\\KoiFish.csproj|C:\\Users\\ntd09\\Documents\\GitHub\\koi\\koifish\\koifish.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{47237C19-4996-4E97-89E3-9CB2F0314D56}|KoiFish\\KoiFish.csproj|solutionrelative:koifish\\koifish.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{47237C19-4996-4E97-89E3-9CB2F0314D56}|KoiFish\\KoiFish.csproj|c:\\users\\phoen\\documents\\github\\koi\\koifish\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47237C19-4996-4E97-89E3-9CB2F0314D56}|KoiFish\\KoiFish.csproj|solutionrelative:koifish\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDFF48D-ABE6-4859-9FD1-2105C098A026}|service\\service.csproj|C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\healthrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CDFF48D-ABE6-4859-9FD1-2105C098A026}|service\\service.csproj|solutionrelative:service\\healthrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2DA913B-1912-46CA-A85A-55D5873C206B}|dao\\dao.csproj|c:\\users\\phoen\\documents\\github\\koi\\dao\\useraccountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DA913B-1912-46CA-A85A-55D5873C206B}|dao\\dao.csproj|solutionrelative:dao\\useraccountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDFF48D-ABE6-4859-9FD1-2105C098A026}|service\\service.csproj|C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\ihealthrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF413948-E076-4D54-90DA-E370556F156C}|object\\Bussinessobject.csproj|c:\\users\\phoen\\documents\\github\\koi\\object\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF413948-E076-4D54-90DA-E370556F156C}|object\\Bussinessobject.csproj|solutionrelative:object\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DA913B-1912-46CA-A85A-55D5873C206B}|dao\\dao.csproj|c:\\users\\phoen\\documents\\github\\koi\\dao\\koifishdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DA913B-1912-46CA-A85A-55D5873C206B}|dao\\dao.csproj|solutionrelative:dao\\koifishdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DA913B-1912-46CA-A85A-55D5873C206B}|dao\\dao.csproj|c:\\users\\phoen\\documents\\github\\koi\\dao\\fishinformationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DA913B-1912-46CA-A85A-55D5873C206B}|dao\\dao.csproj|solutionrelative:dao\\fishinformationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DA913B-1912-46CA-A85A-55D5873C206B}|dao\\dao.csproj|c:\\users\\phoen\\documents\\github\\koi\\dao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2DA913B-1912-46CA-A85A-55D5873C206B}|dao\\dao.csproj|solutionrelative:dao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDFF48D-ABE6-4859-9FD1-2105C098A026}|service\\service.csproj|c:\\users\\phoen\\documents\\github\\koi\\service\\ihealthrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CDFF48D-ABE6-4859-9FD1-2105C098A026}|service\\service.csproj|solutionrelative:service\\ihealthrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDFF48D-ABE6-4859-9FD1-2105C098A026}|service\\service.csproj|C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CDFF48D-ABE6-4859-9FD1-2105C098A026}|service\\service.csproj|c:\\users\\phoen\\documents\\github\\koi\\service\\healthrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDFF48D-ABE6-4859-9FD1-2105C098A026}|service\\service.csproj|solutionrelative:service\\healthrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDFF48D-ABE6-4859-9FD1-2105C098A026}|service\\service.csproj|c:\\users\\phoen\\documents\\github\\koi\\service\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CDFF48D-ABE6-4859-9FD1-2105C098A026}|service\\service.csproj|solutionrelative:service\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDFF48D-ABE6-4859-9FD1-2105C098A026}|service\\service.csproj|C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\iuseraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CDFF48D-ABE6-4859-9FD1-2105C098A026}|service\\service.csproj|c:\\users\\phoen\\documents\\github\\koi\\service\\iuseraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CDFF48D-ABE6-4859-9FD1-2105C098A026}|service\\service.csproj|solutionrelative:service\\iuseraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF413948-E076-4D54-90DA-E370556F156C}|object\\Bussinessobject.csproj|C:\\Users\\ntd09\\Documents\\GitHub\\koi\\object\\healthrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F97ECDB2-CC8A-46E7-B9E9-40B271636CB5}|repos\\repos.csproj|c:\\users\\phoen\\documents\\github\\koi\\repos\\useraccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97ECDB2-CC8A-46E7-B9E9-40B271636CB5}|repos\\repos.csproj|solutionrelative:repos\\useraccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97ECDB2-CC8A-46E7-B9E9-40B271636CB5}|repos\\repos.csproj|c:\\users\\phoen\\documents\\github\\koi\\repos\\iuseraccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97ECDB2-CC8A-46E7-B9E9-40B271636CB5}|repos\\repos.csproj|solutionrelative:repos\\iuseraccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47237C19-4996-4E97-89E3-9CB2F0314D56}|KoiFish\\KoiFish.csproj|c:\\users\\phoen\\documents\\github\\koi\\koifish\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47237C19-4996-4E97-89E3-9CB2F0314D56}|KoiFish\\KoiFish.csproj|solutionrelative:koifish\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47237C19-4996-4E97-89E3-9CB2F0314D56}|KoiFish\\KoiFish.csproj|c:\\users\\phoen\\documents\\github\\koi\\koifish\\koifish.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47237C19-4996-4E97-89E3-9CB2F0314D56}|KoiFish\\KoiFish.csproj|solutionrelative:koifish\\koifish.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF413948-E076-4D54-90DA-E370556F156C}|object\\Bussinessobject.csproj|c:\\users\\phoen\\documents\\github\\koi\\object\\healthrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF413948-E076-4D54-90DA-E370556F156C}|object\\Bussinessobject.csproj|solutionrelative:object\\healthrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -37,20 +81,165 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 507,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FishInformationDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\dao\\FishInformationDAO.cs",
+              "RelativeDocumentMoniker": "dao\\FishInformationDAO.cs",
+              "ToolTip": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\dao\\FishInformationDAO.cs",
+              "RelativeToolTip": "dao\\FishInformationDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:23:57.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FishInfoWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\KoiFish\\FishInfoWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KoiFish\\FishInfoWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\KoiFish\\FishInfoWindow.xaml.cs",
+              "RelativeToolTip": "KoiFish\\FishInfoWindow.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:49:58.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KoifishDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\dao\\KoifishDbContext.cs",
+              "RelativeDocumentMoniker": "dao\\KoifishDbContext.cs",
+              "ToolTip": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\dao\\KoifishDbContext.cs",
+              "RelativeToolTip": "dao\\KoifishDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:46:57.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\dao\\appsettings.json",
+              "RelativeDocumentMoniker": "dao\\appsettings.json",
+              "ToolTip": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\dao\\appsettings.json",
+              "RelativeToolTip": "dao\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T16:46:46.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserAccountRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\repos\\IUserAccountRepo.cs",
+              "RelativeDocumentMoniker": "repos\\IUserAccountRepo.cs",
+              "ToolTip": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\repos\\IUserAccountRepo.cs",
+              "RelativeToolTip": "repos\\IUserAccountRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:23:50.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\object\\UserAccount.cs",
+              "RelativeDocumentMoniker": "object\\UserAccount.cs",
+              "ToolTip": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\object\\UserAccount.cs",
+              "RelativeToolTip": "object\\UserAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:14:55.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserAccountDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\dao\\UserAccountDAO.cs",
+              "RelativeDocumentMoniker": "dao\\UserAccountDAO.cs",
+              "ToolTip": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\dao\\UserAccountDAO.cs",
+              "RelativeToolTip": "dao\\UserAccountDAO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:14:49.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserAccountRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\repos\\UserAccountRepo.cs",
+              "RelativeDocumentMoniker": "repos\\UserAccountRepo.cs",
+              "ToolTip": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\repos\\UserAccountRepo.cs",
+              "RelativeToolTip": "repos\\UserAccountRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:13:57.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\KoiFish\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KoiFish\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\KoiFish\\MainWindow.xaml.cs",
+              "RelativeToolTip": "KoiFish\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwDcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:12:24.173Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FishInfoWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\KoiFish\\FishInfoWindow.xaml",
+              "RelativeDocumentMoniker": "KoiFish\\FishInfoWindow.xaml",
+              "ToolTip": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\KoiFish\\FishInfoWindow.xaml",
+              "RelativeToolTip": "KoiFish\\FishInfoWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T16:02:22.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\KoiFish\\App.xaml",
+              "RelativeDocumentMoniker": "KoiFish\\App.xaml",
+              "ToolTip": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\KoiFish\\App.xaml",
+              "RelativeToolTip": "KoiFish\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T16:02:20.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\KoiFish\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\KoiFish\\MainWindow.xaml",
               "RelativeDocumentMoniker": "KoiFish\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\KoiFish\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\KoiFish\\MainWindow.xaml",
               "RelativeToolTip": "KoiFish\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-24T02:48:14.204Z",
@@ -58,11 +247,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "KoiFish",
-              "DocumentMoniker": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\KoiFish\\KoiFish.csproj",
+              "DocumentIndex": 16,
+              "Title": "KoiFish.csproj",
+              "DocumentMoniker": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\KoiFish\\KoiFish.csproj",
               "RelativeDocumentMoniker": "KoiFish\\KoiFish.csproj",
-              "ToolTip": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\KoiFish\\KoiFish.csproj",
+              "ToolTip": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\KoiFish\\KoiFish.csproj",
               "RelativeToolTip": "KoiFish\\KoiFish.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -70,63 +259,89 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "IHealthRecordService.cs",
-              "DocumentMoniker": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\IHealthRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\service\\IHealthRecordService.cs",
               "RelativeDocumentMoniker": "service\\IHealthRecordService.cs",
-              "ToolTip": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\IHealthRecordService.cs",
+              "ToolTip": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\service\\IHealthRecordService.cs",
               "RelativeToolTip": "service\\IHealthRecordService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T02:41:39.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "HealthRecordService.cs",
-              "DocumentMoniker": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\HealthRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\service\\HealthRecordService.cs",
               "RelativeDocumentMoniker": "service\\HealthRecordService.cs",
-              "ToolTip": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\HealthRecordService.cs",
+              "ToolTip": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\service\\HealthRecordService.cs",
               "RelativeToolTip": "service\\HealthRecordService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAA5AAAA",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T02:41:19.488Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "UserAccountService.cs",
-              "DocumentMoniker": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\UserAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\service\\UserAccountService.cs",
               "RelativeDocumentMoniker": "service\\UserAccountService.cs",
-              "ToolTip": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\UserAccountService.cs",
+              "ToolTip": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\service\\UserAccountService.cs",
               "RelativeToolTip": "service\\UserAccountService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T13:50:40.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "IUserAccountService.cs",
-              "DocumentMoniker": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\IUserAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\service\\IUserAccountService.cs",
               "RelativeDocumentMoniker": "service\\IUserAccountService.cs",
-              "ToolTip": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\IUserAccountService.cs",
+              "ToolTip": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\service\\IUserAccountService.cs",
               "RelativeToolTip": "service\\IUserAccountService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T13:50:39.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "HealthRecord.cs",
-              "DocumentMoniker": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\object\\HealthRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\object\\HealthRecord.cs",
               "RelativeDocumentMoniker": "object\\HealthRecord.cs",
-              "ToolTip": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\object\\HealthRecord.cs",
+              "ToolTip": "C:\\Users\\Phoen\\Documents\\GitHub\\koi\\object\\HealthRecord.cs",
               "RelativeToolTip": "object\\HealthRecord.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T13:50:00.125Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 636,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }

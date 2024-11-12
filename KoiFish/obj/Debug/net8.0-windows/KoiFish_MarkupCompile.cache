@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\ntd09\source\repos\KoiFish\KoiFish\obj\Debug\net8.0-windows\
+C:\Users\Phoen\Documents\GitHub\koi\KoiFish\obj\Debug\net8.0-windows\
 KoiFish
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\ntd09\source\repos\KoiFish\KoiFish\App.xaml
-11407045341
+C:\Users\Phoen\Documents\GitHub\koi\KoiFish\App.xaml
+3-51571936
 
-41241791485
-244-353518906
-MainWindow.xaml;
+61351024944
+2482015075742
+FishInfoWindow.xaml;MainWindow.xaml;Page1.xaml;
 
 False
 

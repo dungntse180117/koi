@@ -3,17 +3,37 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:KoiFish"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="KoiHealthCare Login" Height="600" Width="900" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Background="#FAFAFA">
     <Grid>
-        <Label Content="Login Page" HorizontalAlignment="Center" Margin="0,33,0,0" VerticalAlignment="Top" FontSize="24"/>
-        <Label Content="Username" HorizontalAlignment="Left" Margin="88,111,0,0" VerticalAlignment="Top" FontSize="16"/>
-        <Label Content="Password" HorizontalAlignment="Left" Margin="91,176,0,0" VerticalAlignment="Top" FontSize="16"/>
-        <TextBox x:Name="txtName" HorizontalAlignment="Left" Margin="219,119,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="438" Height="16"/>
-        <TextBox x:Name="txtPass" HorizontalAlignment="Left" Margin="219,184,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="438" Height="16"/>
-        <Button x:Name="BtnLogin" Content="Login" HorizontalAlignment="Left" Margin="129,279,0,0" VerticalAlignment="Top" Height="44" Width="78"/>
-        <Button x:Name="BtnReset" Content="Reset" HorizontalAlignment="Left" Margin="556,279,0,0" VerticalAlignment="Top" Height="42" Width="71"/>
+        <!-- Background Image -->
+        <Image Source="KoiBackground.jpg" Stretch="UniformToFill" Opacity="0.3" />
 
+        <!-- Login Box -->
+        <Border CornerRadius="15" Background="White" BorderBrush="#FF6F61" BorderThickness="2" Width="400" Height="450" VerticalAlignment="Center" HorizontalAlignment="Center" Opacity="0.9">
+            <Grid>
+                <StackPanel Margin="30">
+                    <!-- Logo -->
+                    <Image Source="KoiLogo.jpg" Width="100" Height="100" HorizontalAlignment="Center" Margin="0,10,0,20"/>
+
+                    <!-- Title -->
+                    <TextBlock Text="KoiHealthCare" FontSize="26" FontWeight="Bold" Foreground="#FF6F61" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+
+                    <!-- Email Field -->
+                    <TextBlock Text="Email Address" FontSize="14" Foreground="#555555" Margin="0,0,0,5" />
+                    <TextBox x:Name="EmailAddressTextBox" Height="40" Background="#F7F7F7" BorderBrush="#DDDDDD" BorderThickness="1" Margin="0,0,0,15" Padding="10"/>
+
+                    <!-- Password Field -->
+                    <TextBlock Text="Password" FontSize="14" Foreground="#555555" Margin="0,0,0,5" />
+                    <PasswordBox x:Name="PasswordTextBox" Height="40" Background="#F7F7F7" BorderBrush="#DDDDDD" BorderThickness="1" Margin="0,0,0,25" Padding="10"/>
+
+                    <!-- Login Button -->
+                    <Button x:Name="LoginButton" Content="Login" Height="34" Background="#FF6F61" Foreground="White" FontWeight="Bold" BorderBrush="#FF6F61" Margin="0,0,0,10" Click="LoginButton_Click" />
+
+                    <!-- Quit Button -->
+                    <Button x:Name="QuitButton" Content="Quit" HorizontalAlignment="Left" Height="55" Margin="324,339,0,0" VerticalAlignment="Top" Width="230" Background="#00796B" Foreground="White" Click="QuitButton_Click"/>
+                </StackPanel>
+            </Grid>
+        </Border>
     </Grid>
 </Window>

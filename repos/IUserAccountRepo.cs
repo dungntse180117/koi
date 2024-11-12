@@ -9,7 +9,7 @@ namespace repos
 {
     public interface IUserAccountRepo
     {
-        public UserAccount GetUserAccountByEmail(string email);
+        UserAccount? GetUserAccountByEmail(string email, string password);
 
         public List<UserAccount> GetUserAccounts();
     }

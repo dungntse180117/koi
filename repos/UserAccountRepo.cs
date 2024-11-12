@@ -10,8 +10,11 @@ namespace repos
 {
     public class UserAccountRepo : IUserAccountRepo
     {
-        public UserAccount GetUserAccountByEmail(string email) => UserAccountDAO.Instance.GetUserAccountByEmail(email);
-        
+        public UserAccount? GetUserAccountByEmail(string email, string password)
+        {
+            return UserAccountDAO.Instance.GetUserAccountByEmail(email, password);
+        }
+
 
         public List<UserAccount> GetUserAccounts() => UserAccountDAO.Instance.GetUserAccounts();
         
