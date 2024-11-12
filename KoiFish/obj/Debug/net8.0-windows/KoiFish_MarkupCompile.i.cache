@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\ntd09\Documents\GitHub\koi\KoiFish\App.xaml
-11407045341
+3-51571936
 
-61793378844
+81902612303
 248259701525
-MainWindow.xaml;
+FishInfoWindow.xaml;MainWindow.xaml;Page1.xaml;
 
-True
+False
 

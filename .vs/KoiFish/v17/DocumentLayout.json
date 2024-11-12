@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{47237C19-4996-4E97-89E3-9CB2F0314D56}|KoiFish\\KoiFish.csproj|solutionrelative:koifish\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{47237C19-4996-4E97-89E3-9CB2F0314D56}|KoiFish\\KoiFish.csproj|c:\\users\\ntd09\\documents\\github\\koi\\koifish\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47237C19-4996-4E97-89E3-9CB2F0314D56}|KoiFish\\KoiFish.csproj|solutionrelative:koifish\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{47237C19-4996-4E97-89E3-9CB2F0314D56}|KoiFish\\KoiFish.csproj|C:\\Users\\ntd09\\Documents\\GitHub\\koi\\koifish\\koifish.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{47237C19-4996-4E97-89E3-9CB2F0314D56}|KoiFish\\KoiFish.csproj|solutionrelative:koifish\\koifish.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -38,11 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\KoiFish\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KoiFish\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\KoiFish\\MainWindow.xaml.cs",
+              "RelativeToolTip": "KoiFish\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:58:02.309Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -58,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "KoiFish",
               "DocumentMoniker": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\KoiFish\\KoiFish.csproj",
               "RelativeDocumentMoniker": "KoiFish\\KoiFish.csproj",
@@ -70,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IHealthRecordService.cs",
               "DocumentMoniker": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\IHealthRecordService.cs",
               "RelativeDocumentMoniker": "service\\IHealthRecordService.cs",
@@ -82,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HealthRecordService.cs",
               "DocumentMoniker": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\HealthRecordService.cs",
               "RelativeDocumentMoniker": "service\\HealthRecordService.cs",
@@ -94,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UserAccountService.cs",
               "DocumentMoniker": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\UserAccountService.cs",
               "RelativeDocumentMoniker": "service\\UserAccountService.cs",
@@ -106,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IUserAccountService.cs",
               "DocumentMoniker": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\service\\IUserAccountService.cs",
               "RelativeDocumentMoniker": "service\\IUserAccountService.cs",
@@ -118,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "HealthRecord.cs",
               "DocumentMoniker": "C:\\Users\\ntd09\\Documents\\GitHub\\koi\\object\\HealthRecord.cs",
               "RelativeDocumentMoniker": "object\\HealthRecord.cs",

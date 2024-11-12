@@ -1,0 +1,32 @@
+﻿<Window x:Class="KoiFish.FishInfoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KoiFish"
+        mc:Ignorable="d"
+        Title="FishInfoWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Fish Information" HorizontalAlignment="Center" Margin="0,23,0,0" VerticalAlignment="Top" FontSize="36"/>
+        <Label Content="Fish ID&#xD;&#xA;" HorizontalAlignment="Left" Margin="65,110,0,0" VerticalAlignment="Top"/>
+        <Label Content="Species&#xD;&#xA;" HorizontalAlignment="Left" Margin="65,139,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.497,-0.503"/>
+        <Label Content="Age&#xD;&#xA;" HorizontalAlignment="Left" Margin="65,169,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.208,0.163"/>
+        <Label Content="Size&#xD;&#xA;" HorizontalAlignment="Left" Margin="382,110,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.424,0.627"/>
+        <Label Content="Health Status&#xD;&#xA;" HorizontalAlignment="Left" Margin="382,140,0,0" VerticalAlignment="Top"/>
+        <Label Content="Treatment&#xD;&#xA;" HorizontalAlignment="Left" Margin="382,171,0,0" VerticalAlignment="Top"/>
+        <Label Content="Note&#xD;&#xA;" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.431,0.101"/>
+        <DataGrid x:Name="fishData" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,329,0,0"/>
+        <TextBox x:Name="txtFishID" HorizontalAlignment="Left" Margin="145,113,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="219"/>
+        <TextBox x:Name="txtSpecies" HorizontalAlignment="Left" Margin="145,143,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="219"/>
+        <TextBox x:Name="txtAge" HorizontalAlignment="Left" Margin="145,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="219"/>
+        <TextBox x:Name="txtSize" HorizontalAlignment="Left" Margin="482,113,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="219" TextChanged="TextBox_TextChanged"/>
+        <TextBox x:Name="txtHealthStatus" HorizontalAlignment="Left" Margin="482,143,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="219"/>
+        <TextBox x:Name="txtTreatment" HorizontalAlignment="Left" Margin="482,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="219"/>
+        <TextBox x:Name="txtNote" HorizontalAlignment="Left" Margin="482,203,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="219" Height="62"/>
+        <Button x:Name="BtnAdd" Content="Add" HorizontalAlignment="Left" Margin="227,289,0,0" VerticalAlignment="Top" Click="Button_Click" Height="26" Width="57"/>
+        <Button x:Name="btnDelete" Content="Delete" HorizontalAlignment="Left" Margin="320,289,0,0" VerticalAlignment="Top" Click="Button_Click" Height="26" Width="57"/>
+        <Button x:Name="BtnUpdate" Content="Update" HorizontalAlignment="Left" Margin="412,289,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.514,0.323" Height="26" Width="61"/>
+        <Button x:Name="BtnClose" Content="Close" HorizontalAlignment="Left" Margin="510,289,0,0" VerticalAlignment="Top" Height="26" Width="55"/>
+
+    </Grid>
+</Window>
