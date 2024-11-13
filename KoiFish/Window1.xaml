@@ -1,4 +1,4 @@
-﻿<Page x:Class="KoiFish.Page1"
+﻿<Window x:Class="KoiFish.Window1"
       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
@@ -15,7 +15,7 @@
         <StackPanel Orientation="Horizontal" Background="DarkBlue" Height="50" VerticalAlignment="Top">
             <TextBlock Text="Koi Fish Health Management" FontSize="24" Foreground="White" Margin="10"/>
             <Button Content="Dashboard" Margin="10" Background="LightBlue" Foreground="White"/>
-            <Button Content="Fish Profiles" Margin="10" Background="LightBlue" Foreground="White"/>
+            <Button x:Name="btnFish" Content="Fish Profiles" Margin="10" Background="LightBlue" Foreground="White" Click="btnFish_Click_1"/>
 
             <Button Content="Feeding Schedule" Margin="10" Background="LightBlue" Foreground="White"/>
 
@@ -84,4 +84,4 @@
             </Border>
         </StackPanel>
     </Grid>
-</Page>
+</Window>
