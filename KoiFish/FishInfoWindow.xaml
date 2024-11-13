@@ -3,30 +3,82 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:KoiFish"
         mc:Ignorable="d"
-        Title="FishInfoWindow" Height="450" Width="800">
-    <Grid>
-        <Label Content="Fish Information" HorizontalAlignment="Center" Margin="0,23,0,0" VerticalAlignment="Top" FontSize="36"/>
-        <Label Content="Fish ID&#xD;&#xA;" HorizontalAlignment="Left" Margin="65,110,0,0" VerticalAlignment="Top"/>
-        <Label Content="Species&#xD;&#xA;" HorizontalAlignment="Left" Margin="65,139,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.497,-0.503"/>
-        <Label Content="Age&#xD;&#xA;" HorizontalAlignment="Left" Margin="65,169,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.208,0.163"/>
-        <Label Content="Size&#xD;&#xA;" HorizontalAlignment="Left" Margin="382,110,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.424,0.627"/>
-        <Label Content="Health Status&#xD;&#xA;" HorizontalAlignment="Left" Margin="382,140,0,0" VerticalAlignment="Top"/>
-        <Label Content="Treatment&#xD;&#xA;" HorizontalAlignment="Left" Margin="382,171,0,0" VerticalAlignment="Top"/>
-        <Label Content="Note&#xD;&#xA;" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.431,0.101"/>
-        <DataGrid x:Name="fishData" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,329,0,0"/>
-        <TextBox x:Name="txtFishID" HorizontalAlignment="Left" Margin="145,113,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="219"/>
-        <TextBox x:Name="txtSpecies" HorizontalAlignment="Left" Margin="145,143,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="219"/>
-        <TextBox x:Name="txtAge" HorizontalAlignment="Left" Margin="145,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="219"/>
-        <TextBox x:Name="txtSize" HorizontalAlignment="Left" Margin="482,113,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="219" TextChanged="TextBox_TextChanged"/>
-        <TextBox x:Name="txtHealthStatus" HorizontalAlignment="Left" Margin="482,143,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="219"/>
-        <TextBox x:Name="txtTreatment" HorizontalAlignment="Left" Margin="482,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="219"/>
-        <TextBox x:Name="txtNote" HorizontalAlignment="Left" Margin="482,203,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="219" Height="62"/>
-        <Button x:Name="BtnAdd" Content="Add" HorizontalAlignment="Left" Margin="227,289,0,0" VerticalAlignment="Top" Click="Button_Click" Height="26" Width="57"/>
-        <Button x:Name="btnDelete" Content="Delete" HorizontalAlignment="Left" Margin="320,289,0,0" VerticalAlignment="Top" Click="Button_Click" Height="26" Width="57"/>
-        <Button x:Name="BtnUpdate" Content="Update" HorizontalAlignment="Left" Margin="412,289,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.514,0.323" Height="26" Width="61"/>
-        <Button x:Name="BtnClose" Content="Close" HorizontalAlignment="Left" Margin="510,289,0,0" VerticalAlignment="Top" Height="26" Width="55"/>
+        Title="Koi Fish Health Care" Height="700" Width="1000" Background="#e0f7fa" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Margin="20">
+        <!-- Main Border -->
+        <Border Background="White" CornerRadius="15" BorderBrush="#b2ebf2" BorderThickness="2" Padding="20">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
 
+                <!-- Header Section -->
+                <TextBlock Text="Koi Fish Health Care"
+                           HorizontalAlignment="Center"
+                           FontSize="36"
+                           FontWeight="Bold"
+                           Foreground="#00796b"
+                           Margin="0,0,0,20"/>
+
+                <!-- Fish Details Form -->
+                <Grid Grid.Row="1" Margin="0,0,0,20">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1.5*"/>
+                        <ColumnDefinition Width="2.5*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <StackPanel Grid.Column="0" Margin="0,0,10,0">
+                        <TextBlock Text="Fish ID:" FontWeight="Bold" FontSize="14" Margin="0,5"/>
+                        <TextBox x:Name="txtFishID" Height="30" Margin="0,5" Padding="5" Background="#f0f4c3" />
+
+                        <TextBlock Text="Species:" FontWeight="Bold" FontSize="14" Margin="0,10,0,5"/>
+                        <TextBox x:Name="txtSpecies" Height="30" Margin="0,5" Padding="5" Background="#f0f4c3" />
+
+                        <TextBlock Text="Age:" FontWeight="Bold" FontSize="14" Margin="0,10,0,5"/>
+                        <TextBox x:Name="txtAge" Height="30" Padding="5" Background="#f0f4c3" />
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="1" Margin="10,0,0,-19">
+                        <TextBlock Text="Size (cm):" FontWeight="Bold" FontSize="14" Margin="0,5"/>
+                        <TextBox x:Name="txtSize" Height="30" Margin="0,5" Padding="5" Background="#f0f4c3" TextChanged="TextBox_TextChanged"/>
+
+                        <TextBlock Text="Health Status:" FontWeight="Bold" FontSize="14" Margin="0,10,0,5"/>
+                        <TextBox x:Name="txtHealthStatus" Height="30" Margin="0,5" Padding="5" Background="#f0f4c3"/>
+
+                        <TextBlock Text="Treatment:" FontWeight="Bold" FontSize="14" Margin="0,10,0,5"/>
+                        <TextBox x:Name="txtTreatment" Height="30" Padding="5" Background="#f0f4c3"/>
+                    </StackPanel>
+                </Grid>
+
+                <!-- Notes Section -->
+                <StackPanel Grid.Row="2" Margin="0,20,0,20"/>
+
+                <!-- DataGrid for Fish Data -->
+                <DataGrid x:Name="fishData" Grid.Row="2" Margin="0,10,0,10" AutoGenerateColumns="False" IsReadOnly="True" Height="150"
+                          Background="White" BorderBrush="#b2ebf2" BorderThickness="1">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Fish ID" Binding="{Binding FishID}" Width="*"/>
+                        <DataGridTextColumn Header="Species" Binding="{Binding Species}" Width="*"/>
+                        <DataGridTextColumn Header="Age" Binding="{Binding Age}" Width="*"/>
+                        <DataGridTextColumn Header="Size (cm)" Binding="{Binding SizeCm}" Width="*"/>
+                        <DataGridTextColumn Header="Health Status" Binding="{Binding HealthStatus}" Width="*"/>
+                        <DataGridTextColumn Header="Treatment" Binding="{Binding Treatment}" Width="*"/>
+                        <DataGridTextColumn Header="Note" Binding="{Binding Note}" Width="*"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+
+                <!-- Button Section -->
+                <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20,0,0">
+                    <Button x:Name="BtnAdd" Content="Add" Width="120" Height="40" Margin="10" Background="#388e3c" Foreground="White" FontWeight="Bold" Click="Button_Click" BorderBrush="Transparent"/>
+                    <Button x:Name="btnDelete" Content="Delete" Width="120" Height="40" Margin="10" Background="#d32f2f" Foreground="White" FontWeight="Bold" Click="Button_Click" BorderBrush="Transparent"/>
+                    <Button x:Name="BtnUpdate" Content="Update" Width="120" Height="40" Margin="10" Background="#1976d2" Foreground="White" FontWeight="Bold" Click="Button_Click" BorderBrush="Transparent"/>
+                    <Button x:Name="BtnClose" Content="Close" Width="120" Height="40" Margin="10" Background="#616161" Foreground="White" FontWeight="Bold" Click="Button_Click" BorderBrush="Transparent"/>
+                </StackPanel>
+            </Grid>
+        </Border>
     </Grid>
 </Window>
